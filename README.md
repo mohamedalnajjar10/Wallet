@@ -51,7 +51,7 @@ A secure financial system that enables users to perform transactions such as pee
     npm install
 
 3. Add Required Env Variables
-create .env file in the root folder, fill it according to .env.example file.
+   create .env file in the root folder, fill it according to .env.example file.
 
 4. Running
    ```bash
