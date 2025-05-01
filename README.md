@@ -50,10 +50,9 @@ A secure financial system that enables users to perform transactions such as pee
     ```bash
     npm install
 
-4. Add Required Env Variables
-   ```bash
+3. Add Required Env Variables
 create .env file in the root folder, fill it according to .env.example file.
 
-6. Running
+4. Running
    ```bash
-npm start    
+   npm start    
