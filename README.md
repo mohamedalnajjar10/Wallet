@@ -47,7 +47,7 @@ A secure financial system that enables users to perform transactions such as pee
    cd online-wallet
 
  2. Install Dependencies:
-       ```bash
+    ```bash
     npm install
 
 4. Add Required Env Variables
@@ -55,5 +55,5 @@ A secure financial system that enables users to perform transactions such as pee
 create .env file in the root folder, fill it according to .env.example file.
 
 6. Running
-      ```bash
+   ```bash
 npm start    
